@@ -1,2 +1,7 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
+
+112223__1   beam 9
+112227__1   beam 9
+112506__1   all beams erratic
+112508__1   beam 1
