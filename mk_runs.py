@@ -11,8 +11,9 @@ project="2024-S1-SP-5"
 #        obsnums per source (make it negative if not added to the final combination)
 on = {}
 on["NGC_4038S"] = [ 112223, 112225, 112227, 112231, 112251, 112253, 112255,
-                    112261, 112263, 112265,]
-on["NGC_4038Spjt"] = [ 112223, 112225]
+                    112261, 112263, 112265,
+                    112506, 112508, 112510, 112512,]
+#on["NGC_4038Spjt"] = [ 112223, 112225]
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
