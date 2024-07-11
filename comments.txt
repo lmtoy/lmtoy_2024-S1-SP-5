@@ -1,7 +1,10 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
 
-112223__1   beam 9
-112227__1   beam 9
-112506__1   all beams erratic
-112508__1   beam 1
+112223__1   [Peter] beam 9
+112227__1   [Peter] beam 9
+112506__1   [Peter] all beams erratic
+112508__1   [Peter] beam 1
+119367__0 QAFAIL: Failed integration, bad coverage. qagrade=-2
+119370 QAFAIL: Failed integration, bad coverage. qagrade=-2
+112223_119365 [49/51] No clear detection.
