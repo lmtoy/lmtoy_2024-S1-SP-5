@@ -18,12 +18,12 @@ on["NGC_4038S"] = [ 112223, 112225, 112227, 112231, 112251, 112253, 112255,
                     113289, 113291, 113293, 113327,
                     113428, 113430, 113432, 113434,
                     116982, 116986, 116988, 116990, 116992, 116996, 116998,
-                    117000, 119365, -119367, -119370,]
+                    117000, 119365, 119367,-119370,]
 
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1["NGC_4038S"] = "extent=200 pix_list=-13,14,15 qagrade=1"
+pars1["NGC_4038S"] = "extent=200 pix_list=-13,14,15"
 
 #        common parameters per source on subsequent runs (run1b, run2b)
 pars2 = {}
