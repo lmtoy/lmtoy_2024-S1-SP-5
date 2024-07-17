@@ -4,4 +4,13 @@
 112223__1   beam 9
 112227__1   beam 9
 112506__1   all beams erratic
-112508__1   beam 1
+112508   beam 1 
+
+119367__0   bad wares3?    # pix_list=-12,13,14,15
+
+119370      QAFAIL
+
+# ugh, these don't work yet in mk_runs
+112223_119367__0       # foo=0
+112223_119367__1       # foo=0
+
