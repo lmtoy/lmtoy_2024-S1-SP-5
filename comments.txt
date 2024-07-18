@@ -5,6 +5,8 @@
 112227__1   [Peter] beam 9
 112506__1   [Peter] all beams erratic
 112508__1   [Peter] beam 1
-119367__0 QAFAIL: Failed integration, bad coverage. qagrade=-2
-119370 QAFAIL: Failed integration, bad coverage. qagrade=-2
-112223_119365 [49/51] No clear detection.
+119367__0 QAFAIL: Failed integration. bad WARES3? qagrade=-2 # pix_list=-12,13,14,15
+119370__0 QAFAIL: Failed integration. bad WARES qagrade=-2
+119370__1 QAFAIL: Failed integration. bad WARES qagrade=-2
+112223_119367__1 [50/51] No clear detection.
+112223_119365__0 [49/51] No clear detection.
