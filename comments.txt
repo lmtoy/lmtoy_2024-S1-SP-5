@@ -15,7 +15,8 @@
 #112223_119367__1 [50/51] No clear detection.
 #112223_119365__0 [49/51] No clear detection.
 
+# qagrade=3 is technically not needed here, since it is inherited from the first obsnum
 
-112223_119367__0    no clear detection   # qagrade=3
-112223_119367__1    no clear detection   # qagrade=3
+112223_119367__0    [50/51] no clear detection   # qagrade=3
+112223_119367__1    [50/51] no clear detection   # qagrade=3
 
