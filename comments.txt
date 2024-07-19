@@ -1,17 +1,21 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
-#123456    QAFAIL     # ...
 
-112223__1   beam 9
-112227__1   beam 9
-112506__1   all beams erratic
-112508   beam 1 
 
-119367__0   bad wares3?    # pix_list=-12,13,14,15
 
-119370__0      QAFAIL
-119370__1      QAFAIL
+112223__1   [Peter] beam 9
+112227__1   [Peter] beam 9
+112506__1   [Peter] all beams erratic
+112508__1   [Peter] beam 1
 
-# ugh, these don't work yet in mk_runs
-112223_119367__0    no clear detection   # foo=0
-112223_119367__1    no clear detection   # foo=0
+# 119367__0 QAFAIL: Failed integration. bad WARES3? qagrade=-2 # pix_list=-12,13,14,15
+
+119370__0 QAFAIL: Failed integration. bad WARES
+119370__1 QAFAIL: Failed integration. bad WARES
+
+#112223_119367__1 [50/51] No clear detection.
+#112223_119365__0 [49/51] No clear detection.
+
+
+112223_119367__0    no clear detection   # qagrade=3
+112223_119367__1    no clear detection   # qagrade=3
 
