@@ -32,7 +32,7 @@ pars2["NGC_4038S"] = "bank=0 pix_list=-13 qagrade=3"
 
 #
 pars3 = {}
-pars3["NGC_4038S"] = "bank=1 pix_list=-13,14,15 qagrade=3"
+pars3["NGC_4038S"] = "bank=1 pix_list=-13,15 qagrade=3"
 
 if __name__ == '__main__':    
     runs.mk_runs(project, on, pars1, pars2, pars3, sys.argv)
